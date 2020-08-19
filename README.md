@@ -1,4 +1,4 @@
-# Project-Object-Detection
+# Project-Colour-Detection
 
 Download the Object Detection.py
 and open the Object Detection.py in any of the python editor 
